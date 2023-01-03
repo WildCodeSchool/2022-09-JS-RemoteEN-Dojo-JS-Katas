@@ -88,13 +88,13 @@
 
 ### 1. Get this repo
 
-First, [**fork**](https://github.com/WildCodeSchool/js-katas/fork?fragment=1) this repository: you'll then have a copy of this repo under your GitHub account.
+First, [**fork**](https://github.com/WildCodeSchool/2022-09-JS-RemoteEN-Dojo-JS-Katas/fork?fragment=1) this repository: you'll then have a copy of this repo under your GitHub account.
 
 Then go to wherever you store your development work, and run these commands to clone the forked repo (replace `GITHUB_LOGIN` with your login):
 
 ```sh
 # download your code locally
-git clone https://github.com/GITHUB_LOGIN/js-katas.git
+git clone https://github.com/GITHUB_LOGIN/2022-09-JS-RemoteEN-Dojo-JS-Katas.git
 
 # change working directory to the newly cloned repository
 cd js-katas
